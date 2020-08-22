@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-<img src="calculator.jpeg" width=50 height=10>
+<img src="calculator.jpeg" width=300 height=600>
 
 
 
